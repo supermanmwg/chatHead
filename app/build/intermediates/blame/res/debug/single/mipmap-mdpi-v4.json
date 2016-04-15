@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mwg/code/ChatHeadTest/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/home/mwg/code/ChatHeadTest/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mwg/code/chatHead/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/home/mwg/code/chatHead/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
